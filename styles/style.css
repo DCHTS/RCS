@@ -18,7 +18,7 @@ body {
     height: 50vh;
     clip-path: polygon(28% 45%, 76% 45%, 100% 100%, 0% 100%);
     z-index: 1;
-    background-image: url(https://dchts.github.io/RCS-assignment/img/roof.jpeg);
+    /* background-image: url(https://dchts.github.io/RCS-assignment/img/roof.jpeg); */
 }
 
 .base {
@@ -26,7 +26,7 @@ body {
     width: 50vw;
     margin-top: -8vh;
     margin-left: 5vw;
-    background-image: url(https://dchts.github.io/RCS-assignment/img/wood.jpg);
+    /* background-image: url(https://dchts.github.io/RCS-assignment/img/wood.jpg); */
 }
 
 .windows {
