@@ -13,7 +13,7 @@ body {
 
 .roof {
     position: relative;
-    background-image: url(/img/roof.jpeg);
+    background-image: url(img/roof.jpeg);
     width: 60vw;
     height: 50vh;
     clip-path: polygon(28% 45%, 76% 45%, 100% 100%, 0% 100%);
@@ -23,7 +23,7 @@ body {
 .base {
     height: 40vh;
     width: 50vw;
-    background-image: url(/img/wood.jpg);
+    background-image: url(img/wood.jpg);
     margin-top: -8vh;
     margin-left: 5vw;
 }
